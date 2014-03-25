@@ -1,2 +1,2 @@
-Javascript Project bamba. 
+Mini MVC Javascript Project - bamba. 
 Created by Lionel Ngounou 19/02/2013
